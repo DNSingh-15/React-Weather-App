@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### link: https://astounding-kangaroo-5095a6.netlify.app
+### link: https://weather-application12.netlify.app
 
 ## Available Scripts
 
